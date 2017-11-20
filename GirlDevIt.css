@@ -1,0 +1,41 @@
+/*
+* Abby Counihan
+* Date: 11/14/17
+* Girl Develop It Project
+*/
+
+body {background-color: #F7E4E9; 
+} 
+
+h1 {font-size: 30px;
+	font-family: cursive;
+	text-decoration: underline;
+}
+
+
+h2 {font-size: 20px;
+	font-family: cursive;
+	text-decoration: underline;
+}
+
+
+p { font-size: 18 px
+	font-family: Arial;
+}
+
+
+footer {font-size: 15px;
+		font-family: "Times New Roman";
+}
+
+
+a:hover {color: fuchsia;
+    	 text-decoration: underline;
+    	 font-size: 25px;
+}
+
+
+a:focus {color: fuchsia
+		 text-decoration: underline;
+    	 font-size: 25px;
+}
