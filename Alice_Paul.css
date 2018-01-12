@@ -1,0 +1,79 @@
+/* Abby Counihan */
+/* Three Column Template for Alice Paul*/
+/* 2-Jan-2018 */
+
+* { 
+    margin: 0; /* to zero all pre-set formatting */
+    padding: 0;
+    background-color: #FBE8FE; 
+}
+
+h1 {
+	text-align: center; 
+}
+
+header { 
+    border-bottom: 2px solid #ef9c00; 
+}
+
+body {
+    width: 80%;
+    margin: 15px auto;
+    border: 1px solid black; 
+}
+
+#sidebarA {
+    width: 20%;
+    height: 400px;     
+    float: left;
+    border-right: 2px solid #ef9c00;
+}
+
+main {
+    width: 58%; 
+    float: left; 
+}
+
+#sidebarB {
+    width: 20%;
+    height: 400px;     
+    float: right;
+    border-left: 2px solid #ef9c00;
+    text-align: center; 
+}
+
+footer {
+    clear: both; 
+    border-top: 2px solid #ef9c00;
+}
+    
+p {
+	margin: 10px; 
+}
+	
+img {
+	 width: 200px;
+	 height: 250px;
+	 float: right;
+}
+
+.stop {
+	  clear: right;
+	  clear: left;
+}
+
+.doodle {
+		 width: 200px;
+		 height: 75px;
+		 margin: 15px 15px 30px 20px;    /* top  right  bottom  left */
+}
+		 
+.poster {
+		 width: 100px;
+		 height: 130px;
+		 margin: 15px 20px 30px 25px;    /* top  right  bottom  left */
+}	
+		 
+.footer {
+		  float: right;
+}	
